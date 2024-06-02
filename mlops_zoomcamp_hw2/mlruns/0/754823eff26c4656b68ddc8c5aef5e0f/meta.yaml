@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlopszoomcamp2024/mlops_zoomcamp_hw2/mlruns/0/754823eff26c4656b68ddc8c5aef5e0f/artifacts
+end_time: 1717307678246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 754823eff26c4656b68ddc8c5aef5e0f
+run_name: calm-kite-337
+run_uuid: 754823eff26c4656b68ddc8c5aef5e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717307667881
+status: 3
+tags: []
+user_id: ubuntu

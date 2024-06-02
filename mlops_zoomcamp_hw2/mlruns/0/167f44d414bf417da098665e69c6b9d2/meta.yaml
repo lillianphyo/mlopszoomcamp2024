@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlopszoomcamp2024/mlops_zoomcamp_hw2/mlruns/0/167f44d414bf417da098665e69c6b9d2/artifacts
+end_time: 1717307864375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 167f44d414bf417da098665e69c6b9d2
+run_name: righteous-crane-918
+run_uuid: 167f44d414bf417da098665e69c6b9d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717307842561
+status: 3
+tags: []
+user_id: ubuntu

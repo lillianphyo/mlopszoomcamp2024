@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/mlopszoomcamp2024/mlops_zoomcamp_hw2/mlruns/0/3f51e4b3a8be492b8ab8aa4759b39afc/artifacts
+deleted_time: 1717307509433
+end_time: 1717307195962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3f51e4b3a8be492b8ab8aa4759b39afc
+run_name: wise-bug-390
+run_uuid: 3f51e4b3a8be492b8ab8aa4759b39afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717307185273
+status: 3
+tags: []
+user_id: ubuntu

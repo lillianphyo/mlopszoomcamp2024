@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/mlopszoomcamp2024/mlops_zoomcamp_hw2/mlruns/0/bb37f9fe3e254a1d9da032292bee7e55/artifacts
+deleted_time: 1717307509437
+end_time: 1717306880368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bb37f9fe3e254a1d9da032292bee7e55
+run_name: worried-kite-444
+run_uuid: bb37f9fe3e254a1d9da032292bee7e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717306840058
+status: 3
+tags: []
+user_id: ubuntu

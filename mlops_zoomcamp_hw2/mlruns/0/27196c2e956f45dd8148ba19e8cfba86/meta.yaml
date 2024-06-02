@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/mlopszoomcamp2024/mlops_zoomcamp_hw2/mlruns/0/27196c2e956f45dd8148ba19e8cfba86/artifacts
+deleted_time: 1717307509431
+end_time: 1717307216160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 27196c2e956f45dd8148ba19e8cfba86
+run_name: redolent-fish-809
+run_uuid: 27196c2e956f45dd8148ba19e8cfba86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717307206003
+status: 3
+tags: []
+user_id: ubuntu

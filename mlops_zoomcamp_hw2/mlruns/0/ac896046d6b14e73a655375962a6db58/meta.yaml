@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlopszoomcamp2024/mlops_zoomcamp_hw2/mlruns/0/ac896046d6b14e73a655375962a6db58/artifacts
+end_time: 1717307659104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac896046d6b14e73a655375962a6db58
+run_name: bright-roo-435
+run_uuid: ac896046d6b14e73a655375962a6db58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717307648430
+status: 3
+tags: []
+user_id: ubuntu

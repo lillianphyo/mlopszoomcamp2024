@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/mlopszoomcamp2024/mlops_zoomcamp_hw2/mlruns/0/f5dbf49dd16a406d992e5e4a51a77eff/artifacts
+deleted_time: 1717307509434
+end_time: 1717307089986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f5dbf49dd16a406d992e5e4a51a77eff
+run_name: mercurial-squid-522
+run_uuid: f5dbf49dd16a406d992e5e4a51a77eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717307079599
+status: 3
+tags: []
+user_id: ubuntu
