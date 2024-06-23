@@ -1,0 +1,30 @@
+#  mlflow:
+#    build:
+#      context: .
+#      dockerfile: mlflow.dockerfile
+#    ports:
+#      - "5000:5000"
+#    volumes:
+#      - "${PWD}/mlflow:/home/ubuntu/kpps/mlops/mlopszoomcamp2024/mlops_zoomcamp_hw3/mlflow/"
+#
+#    networks:
+#      - app-network
+
+version: '3.8'
+
+services:
+  mlflow:
+    build:
+      context: .
+      dockerfile: mlflow.dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - "${PWD}/mlflow:/home/ubuntu/kpps/mlops/mlopszoomcamp2024/mlops_zoomcamp_hw3/mlflow/"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
