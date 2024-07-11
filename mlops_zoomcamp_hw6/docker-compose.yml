@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  localstack:
+    image: localstack/localstack
+    container_name: localstack
+    ports:
+      - "4566:4566"  # Primary API endpoint
+      - "4571:4571"  # S3 endpoint
+    environment:
+      - SERVICES=s3
+      - DEFAULT_REGION=ap-southeast-1
